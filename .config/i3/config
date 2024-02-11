@@ -163,6 +163,10 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcu
 gaps inner 15
 gaps outer 5
 
+################# i3-radius #######################
+smart_borders on
+smart_borders no_gaps
+
 # gaps
 set $mode_gaps Gaps: (o)uter, (i)nner, (h)orizontal, (v)ertical, (t)op, (r)ight, (b)ottom, (l)eft
 set $mode_gaps_outer Outer Gaps: +|-|0 (local), Shift + +|-|0 (global)
