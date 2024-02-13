@@ -16,7 +16,6 @@ filetype plugin indent on
 set showmode
 set hlsearch
 set wrap
-set mouse=a
 set clipboard=unnamedplus
 colorscheme ron
 set list
