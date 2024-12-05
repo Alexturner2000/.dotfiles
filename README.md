@@ -1,9 +1,8 @@
-For custom linux box and other machines
+# Additional config
 ```
 add ls plugin
 add zshautosuggestions
 ```
-
 ---
 
 # Non-dotfile related setups
