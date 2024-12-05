@@ -9,6 +9,11 @@ add zshautosuggestions
 
 ## Applications
 
+**For linux**
+- Nmap/pcap
+- git
+- ansible
+
 **For windows**
 - mobaxterm - for terminaling
 - Advanced IP scanner - scans network range IPs
@@ -18,6 +23,7 @@ add zshautosuggestions
 - brother ptouch - bulk label printing
 - git - version control
 - Visio - diagramming
+- nmap/zenmap/pcap - scanning
 
   
 
