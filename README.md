@@ -24,7 +24,7 @@ add zshautosuggestions
 - git - version control
 - Visio - diagramming
 - nmap/zenmap/pcap - scanning
-
+- NetSpot demo - wireless scanning
   
 
 
