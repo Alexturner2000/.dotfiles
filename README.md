@@ -11,6 +11,7 @@ add zshautosuggestions
 
 **For linux**
 - Nmap/pcap
+- ipcalc
 - git
 - ansible
 
