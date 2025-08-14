@@ -14,18 +14,18 @@ add zshautosuggestions
 - ipcalc
 - git
 - ansible
+- vim
 
 **For windows**
-- mobaxterm - for terminaling
-- Advanced IP scanner - scans network range IPs
+- Mobaxterm - terminal
+- Advanced IP scanner - IP range scanner
 - Wireshark - traffic analyser
-- powertoys -  always-on-top utility
 - vscode - preffered IDE
 - brother ptouch - bulk label printing
 - git - version control
 - Visio - diagramming
 - nmap/zenmap/pcap - scanning
 - NetSpot demo - wireless scanning
-  
+- Obsidian - note taking
 
 
